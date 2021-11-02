@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T14:07:56.577Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.5" etag="f6B-Kv-AzJxa2Iki-ABe" type="github"><diagram id="qOMMuB4eoHqMVuGcCwok">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T14:11:35.010Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-pwE4hhT4mjO3LcZG6R3" version="15.6.5" type="github">
+  <diagram id="qOMMuB4eoHqMVuGcCwok" name="Page-1">
+    <mxGraphModel dx="461" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wVGHFATass6-LpcJT5j--2" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wVGHFATass6-LpcJT5j--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="wVGHFATass6-LpcJT5j--3" target="wVGHFATass6-LpcJT5j--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVGHFATass6-LpcJT5j--3" value="Firewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wVGHFATass6-LpcJT5j--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="wVGHFATass6-LpcJT5j--5" target="wVGHFATass6-LpcJT5j--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVGHFATass6-LpcJT5j--5" value="Router" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="45" height="29.86" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
