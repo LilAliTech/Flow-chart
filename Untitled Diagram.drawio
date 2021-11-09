@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T13:41:04.542Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="32ykHTsIKxhak7AYSyTI" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T13:43:35.254Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="c87AOBJiH0n1IRKpLgT8" version="15.7.0" type="github">
   <diagram id="PN6PixYRcev-E0t3H8BY" name="Page-1">
-    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,19 +23,19 @@
           <mxGeometry x="440" y="115" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-7" value="desktop&lt;br&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
-          <mxGeometry x="-81.33" y="550" width="107.16" height="118" as="geometry" />
+          <mxGeometry x="298.64" y="512.85" width="107.16" height="118" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-9" value="USB 1W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-8" target="YHKRDfA41KTPF7TRVpll-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-8" value="Mouse&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.mouse;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="760" width="24.5" height="50" as="geometry" />
+          <mxGeometry x="450" y="660" width="24.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-15" value="USB/Bluetooth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-10" target="YHKRDfA41KTPF7TRVpll-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-10" value="Graphics tablets" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/tablet_pc.svg;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="530" width="61.1" height="83.7" as="geometry" />
+          <mxGeometry x="130" y="630.85" width="61.1" height="83.7" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-13" value="USB 1W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-11" target="YHKRDfA41KTPF7TRVpll-6">
           <mxGeometry relative="1" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-20" value="VPN" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="400" width="75.8" height="53.79" as="geometry" />
+          <mxGeometry x="330" y="400" width="75.8" height="53.79" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-23" value="Ethernet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-22" target="YHKRDfA41KTPF7TRVpll-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-22" value="Work server&lt;br&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
-          <mxGeometry x="270" y="540.0000000000001" width="88.2" height="178.8" as="geometry" />
+          <mxGeometry x="570" y="570.0000000000001" width="88.2" height="178.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
