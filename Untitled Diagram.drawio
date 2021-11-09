@@ -1,17 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T13:06:06.186Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cLv9nd3kVatvGIxm1h8-" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T13:35:55.198Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xg5edh2iGlz6qbv5gidn" version="15.7.0" type="github">
   <diagram id="PN6PixYRcev-E0t3H8BY" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YHKRDfA41KTPF7TRVpll-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="110" width="50" height="100" as="geometry" />
+        <mxCell id="YHKRDfA41KTPF7TRVpll-1" value="Mobile Phone" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YHKRDfA41KTPF7TRVpll-3" value="3G/4G/5G&lt;br&gt;1W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-2" target="YHKRDfA41KTPF7TRVpll-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHKRDfA41KTPF7TRVpll-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="55" height="100" as="geometry" />
+        <mxCell id="YHKRDfA41KTPF7TRVpll-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-2" target="YHKRDfA41KTPF7TRVpll-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-2" value="3G/4G/5G Tower" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+          <mxGeometry x="750" y="270" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-19" value="WIfi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-6" target="YHKRDfA41KTPF7TRVpll-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-6" value="Laptop" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
+          <mxGeometry x="440" y="115" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-7" value="desktop&lt;br&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;" vertex="1" parent="1">
+          <mxGeometry x="-81.33" y="550" width="107.16" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-9" value="USB 1W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-8" target="YHKRDfA41KTPF7TRVpll-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-8" value="Mouse&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.mouse;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="760" width="24.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-15" value="USB/Bluetooth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-10" target="YHKRDfA41KTPF7TRVpll-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-10" value="Graphics tablets" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/tablet_pc.svg;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="530" width="61.1" height="83.7" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-13" value="USB 1W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-11" target="YHKRDfA41KTPF7TRVpll-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-11" value="Hard Drive" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-1/52/harddrive__hdd__drive__device__technology__storage__harddisk-128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-12" value="Media Drive" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/google_drive-128.png" vertex="1" parent="1">
+          <mxGeometry x="-353.15" y="136.84999999999997" width="63.15" height="63.15" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-16" target="YHKRDfA41KTPF7TRVpll-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-16" value="Remote server" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="88.2" height="178.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-18" value="Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-21" value="WiFi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-20" target="YHKRDfA41KTPF7TRVpll-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-24" value="WiFi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-20" target="YHKRDfA41KTPF7TRVpll-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-20" value="VPN" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="400" width="75.8" height="53.79" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-23" value="Ethernet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHKRDfA41KTPF7TRVpll-22" target="YHKRDfA41KTPF7TRVpll-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHKRDfA41KTPF7TRVpll-22" value="Work server&lt;br&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540.0000000000001" width="88.2" height="178.8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
